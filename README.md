@@ -1,2 +1,3 @@
-# worksheet-one
-An introduction to JavaScript in preparation for Node.js
+# Worksheet One
+
+## An introduction to JavaScript in preparation for Node.js
